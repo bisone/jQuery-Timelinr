@@ -1,5 +1,5 @@
 {
-  "name": "jQuery-Timelinr",
+  "name": "timelinr",
   "version": "1.0.0",
   "description": "This simple plugin helps you to give more life to the boring timelines. Supports horizontal and vertical layouts, and you can specify parameters for most attributes: speed, transparency, etc.",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "timeline"
   ],
   "author": "Will",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bisone/jQuery-Timelinr/issues"
   },
